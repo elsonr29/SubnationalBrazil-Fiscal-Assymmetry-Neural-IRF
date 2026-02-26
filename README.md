@@ -16,4 +16,4 @@ The empirical strategy follows a three-step triangulation:
 * **Asymmetry Analysis:** Comparing positive vs. negative output gap shocks.
 * **Subnational Focus:** Comprehensive data from all 27 Brazilian states (2000-2023).
 
-> **Note:** This is a partial code for a **Working Paper** intended for submission to the journal
+> **Note:** This is a partial code for a **Working Paper** intended for submission to the journal. Please do not cite without permission. For inquiries, contact the author.
