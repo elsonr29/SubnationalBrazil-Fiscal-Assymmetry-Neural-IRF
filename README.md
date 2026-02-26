@@ -5,10 +5,15 @@
 ## Overview
 This project investigates how fiscal crises are transmitted within Brazilian states. It specifically focuses on the "insolvency trap" caused by the rigidity of current expenditures and the sacrifice of public investment during economic downturns.
 
-## Summary
+## Repository Structure & Scripts
 
 * **1. Data Preparation:** HP filter for output gap estimation, subnational terms of trade, and per capita gross dummies.
 * **2. Pre-estimation Tests:** Unit root/stationarity tests, cointegration tests, and structural break analysis.
+* **3. System GMM:** Estimation of structural parameters using the Two-Step System GMM estimator to address endogeneity and fiscal inertia.
+* **4. Hierarchical BVAR:** Estimation of short and medium-term dynamics using Bayesian priors for subnational data.
+* **5. Neural IRF:** Application of Deep Learning to capture non-linearities and threshold effects in fiscal crisis transmission.
+* **6. Simulation IRF:** Uses System GMM parameters to simulate response asymmetries and construct IRFs.
+* **7. Graphics:** Automated generation of IRF plots, threshold visualizations, and fiscal stress maps.
 
 
 ## Methodology
