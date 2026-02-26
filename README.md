@@ -7,7 +7,7 @@ This project investigates how fiscal crises are transmitted within Brazilian sta
 
 ## Repository Structure & Scripts
 
-* **1. Data Preparation:** HP filter for output gap estimation, subnational terms of trade, and per capita gross dummies.
+* **1. Data Preparation:** Automated retrieval of subnational fiscal data via STN API, including HP filter for output gap estimation, subnational terms of trade, and construction of per capita gross dummies.
 * **2. Pre-estimation Tests:** Unit root/stationarity tests, cointegration tests, and structural break analysis.
 * **3. System GMM:** Estimation of structural parameters using the Two-Step System GMM estimator to address endogeneity and fiscal inertia.
 * **4. Hierarchical BVAR:** Estimation of short and medium-term dynamics using Bayesian priors for subnational data.
