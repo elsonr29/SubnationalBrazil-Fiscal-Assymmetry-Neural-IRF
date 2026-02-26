@@ -13,7 +13,7 @@ This project investigates how fiscal crises are transmitted within Brazilian sta
 * **4. Hierarchical BVAR:** Estimation of short and medium-term dynamics using Bayesian priors for subnational data.
 * **5. Neural IRF:** Application of Deep Learning to capture non-linearities and threshold effects in fiscal crisis transmission.
 * **6. Simulation IRF:** Uses System GMM parameters to simulate response asymmetries and construct IRFs.
-* **7. Graphics:** Automated generation of IRF plots, threshold visualizations, and fiscal stress maps.
+* **7. Graphics:** data visualizations, and fiscal stress maps.
 
 
 ## Methodology
